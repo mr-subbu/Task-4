@@ -1,4 +1,15 @@
 # Task-4
+Name: Patnana Revanth
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT08STK
+
+Domain: VLSI
+
+Duration: March 10th TO April 10th 2025.
+
+Mentor: NEELA SANTHOSH KUMAR
 
 ## Overview of the Project
 
@@ -124,4 +135,4 @@ This project successfully demonstrated the design and simulation of a 3-tap FIR 
 
 
 ### Output: 
-![output]()
+![output](https://github.com/mr-subbu/Task-4/blob/main/IMG-20250325-WA0014.jpg)
